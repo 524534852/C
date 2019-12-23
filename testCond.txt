@@ -1,0 +1,3 @@
+{
+
+ %CNT = 7  IFEQUAL ( %CNT , 7 ) { %C = 6 PRINT %C }  IFGREATER ( %CNT , 8 ) { %D = 3 PRINT %D } }

@@ -1,0 +1,5 @@
+{
+
+  $A = "Neill" $F = "Bob" $C = $A $D = $C %A = 15.4 %B = %A $F = "Jack" PRINT $D PRINTN $F PRINT %B 
+
+}

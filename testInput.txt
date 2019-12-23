@@ -1,0 +1,5 @@
+{
+
+ %GUESS = 18 INNUM ( %GUESS ) PRINT %GUESS IN2STR ( $A , $B ) PRINT $A 
+
+PRINT $B }

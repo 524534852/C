@@ -1,0 +1,5 @@
+{
+
+  RND ( %MINE ) PRINT %MINE RND ( %A ) PRINT %A 
+
+}

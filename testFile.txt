@@ -1,0 +1,5 @@
+{
+
+  FILE "test1.nal" FILE "test2.nal" 
+
+}
